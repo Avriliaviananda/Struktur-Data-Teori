@@ -1,4 +1,4 @@
-## Repository praktikum algoritma dan struktur data
+## Repository algoritma dan struktur data
 
 <pre>
 Nama : Avrilia Viananda Nagita
